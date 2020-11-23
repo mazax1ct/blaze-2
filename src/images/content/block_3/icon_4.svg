@@ -1,0 +1,15 @@
+<svg width="65" height="65" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 65">
+<style type="text/css">
+	.st0{fill:none;stroke:#313131;stroke-width:3;}
+	.st1{fill:none;stroke:#313131;stroke-width:4;}
+	.st2{fill:#FFFFFF;stroke:#313131;stroke-width:3;}
+	.st3{fill:none;stroke:#313131;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<path class="st0" d="M22.5,1.5h20c4.7,0,8.5,3.8,8.5,8.5v45c0,4.7-3.8,8.5-8.5,8.5h-20c-4.7,0-8.5-3.8-8.5-8.5V10
+		C14,5.3,17.8,1.5,22.5,1.5z"/>
+	<path class="st1" d="M25.5,2h14v2c0,0.6-0.4,1-1,1h-12c-0.6,0-1-0.4-1-1V2z"/>
+	<circle class="st2" cx="32.5" cy="33" r="10.5"/>
+	<path class="st3" d="M28.5,32.5l2.5,3l5.5-5.5"/>
+</g>
+</svg>
