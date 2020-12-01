@@ -12,11 +12,18 @@
   top: 0
   z-index: 10
 
+  @media(min-width: 1200px)
+    padding-top: 40px
+
   &__logo
     width: 105px
 
     @media(min-width: 1200px)
       width: 170px
+
+  &__menu
+    @media(min-width: 1200px)
+      margin-left: 145px
 
   &__menu-list
     align-items: center
@@ -42,12 +49,14 @@
   &__menu-link
     color: #fff
     display: inline-block
+    height: 40px
     line-height: 15px
-    padding-top: 11px
+    padding-top: 10px
     padding-bottom: 12px
     text-decoration: none
 
     @media(min-width: 1200px)
+      height: 46px
       padding-top: 14px
 
     &:hover
@@ -60,12 +69,12 @@
       border-radius: 10px
       padding-left: 17px
       padding-right: 17px
-      height: 40px
       transition: background-color 0.3s, color 0.3s
 
       @media(min-width: 1200px)
         border-radius: 20px
-        height: 46px
+        padding-left: 23px
+        padding-right: 23px
 
       &:hover
         background-color: #fff
